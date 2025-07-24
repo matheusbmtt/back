@@ -45,5 +45,5 @@ app.delete('/comentarios/:id', (req: Request, res : Response): Response =>{
 })
 
 app.listen(PORT, () => {
-    console.log(`🔥 Servidor rodando em http://localhost:${PORT}`)
+    console.log(`Servidor rodando em http://localhost:${PORT}`)
 })
