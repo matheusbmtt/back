@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es2020",
+    "module": "commonjs",
+    "rootDir": "./aula 4/src",
+    "outDir": "./aula 4/dist",
+    "esModuleInterop": true,
+    "strict": true,
+    "skipLibCheck": true
+  },
+  "include": ["aula 4/src/**/*.ts"],
+  "exclude": ["node_modules"]
+}
